@@ -73,6 +73,6 @@ This model is loaded using the HuggingFace `transformers` library and performs i
 
 ## ✍️ Author
 
-Made with ❤️ by ** Adinath Nage **
+Made with ❤️ by Adinath Nage
 [GitHub](https://github.com/adinat09) • [LinkedIn](https://linkedin.com/in/adinathnage)
 
